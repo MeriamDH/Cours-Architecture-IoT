@@ -28,7 +28,7 @@ Le plan des TP présenté ci-après couvre l’ensemble de la chaîne fonctionne
 -	TP6 : Réception et traitement des requêtes HTTP POST via Wamp et Node-RED
 
 
-## 🛠️ Prérequis & Matériel (Optionnel)
+## 🛠️ Prérequis & Matériel 
 - Logiciels requis : [Thingsboard, NodeRED, Mosquitto, Arduino IDE.]
 - Matériel utilisé en TP : [ESP32, 6 LED, DHT11]
 

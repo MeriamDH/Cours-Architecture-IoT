@@ -1,6 +1,7 @@
-# Architecture-IoT
+## 📚 Architecture-IoT
 
 Cette matière « Architecture IoT » est destinée aux étudiants de 3ème année de licence appliquée en Ingénierie des Systèmes Informatiques, spécialité IoT et systèmes embarqués (SE-IoT). Elle vise à fournir une vision globale et structurée des architectures des systèmes IoT, depuis l’objet connecté jusqu’aux services cloud.
+
 # Cours 
 Le cours débute par une introduction aux concepts fondamentaux de l’IoT, puis aborde la partie embarquée des objets connectés, en mettant l’accent sur les capteurs, microcontrôleurs, actionneurs et contraintes des systèmes embarqués. Les plateformes IoT et le Cloud Computing sont ensuite étudiés afin de comprendre la collecte, le stockage et le traitement des données à grande échelle.
 Une attention particulière est portée à Node-RED comme outil de développement rapide. Le cours traite également des protocoles de communication IoT les plus utilisés, ainsi que des REST API, indispensables pour l’interopérabilité et l’intégration des objets connectés avec des applications et services externes.
@@ -26,3 +27,10 @@ Le plan des TP présenté ci-après couvre l’ensemble de la chaîne fonctionne
 -	TP5 : Communication HTTP avec Node-RED et ESP32 : implémentation des requêtes GET/POST et traitement des données
 -	TP6 : Réception et traitement des requêtes HTTP POST via Wamp et Node-RED
 
+
+## 🛠️ Prérequis & Matériel (Optionnel)
+- Logiciels requis : [Thingsboard, NodeRED, Mosquitto, Arduino IDE.]
+- Matériel utilisé en TP : [ESP32, 6 LED, DHT11]
+
+## 📄 Licence
+Ce contenu est mis à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
